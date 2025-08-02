@@ -20,4 +20,4 @@ To compile Ted from source. Refer to the compilation instructions at the end of 
  
 Overview of the different packages:
 
-# This repository is made so new users can install Ted. No copyright infringement is needed. This repo places all the dependencies and Ted's Deb files that can be used to install it on latest Debian and Ubuntu systems. Find everythign in the releases.
+# This repository is made so new users can install Ted. No copyright infringement is intended. This repo places all the dependencies and Ted's Deb files that can be used to install it on latest Debian and Ubuntu systems. Find everythign in the releases: https://github.com/ilovefreesw/nluug.nl.Ted/releases
